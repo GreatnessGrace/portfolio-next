@@ -15,6 +15,21 @@ const Footer = () => {
         />
       </div>
 
+      <div className="flex flex-col items-center">
+        <h1 className="heading lg:max-w-[45vw]">
+        Transform <span className="text-purple">your</span> vision into reality with innovative digital solutions.
+        </h1>
+        <p className="text-white-200 md:mt-10 my-5 text-center">
+        Contact me today, and together we&apos;ll build something extraordinary.
+        </p>
+        <a href="mailto:graceunstoppable7@gmail.com">
+          <MagicButton
+            title="Let's get in touch"
+            icon={<FaLocationArrow />}
+            position="right"
+          />
+        </a>
+      </div>
     
     </footer>
   );
