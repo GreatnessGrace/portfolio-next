@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "I focus on using the latest technologies to drive project success. ",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -142,53 +142,53 @@ export const navItems = [
     {
       id: 1,
       name: "Relinns Technologies",
-      img: "/cloud.svg",
-      nameImg: "/cloudName.svg",
+      img: "/relinns.webp",
+      nameImg: "Relinns Technologies",
     },
     {
       id: 2,
       name: "iLeads",
-      img: "/app.svg",
-      nameImg: "/appName.svg",
+      img: "/iLeads.jpg",
+      nameImg: "iLeads Auxiliary Services",
     },
     {
       id: 3,
       name: "e-Solutions",
-      img: "/host.svg",
-      nameImg: "/hostName.svg",
+      img: "/eSolutions.webp",
+      nameImg: "E-Solutions",
     },
     {
       id: 4,
       name: "Cdac",
-      img: "/s.svg",
-      nameImg: "/streamName.svg",
+      img: "/cdac2.jpg",
+      nameImg: "CDAC",
     },
-    {
-      id: 5,
-      name: "docker.",
-      img: "/dock.svg",
-      nameImg: "/dockerName.svg",
-    },
+    // {
+    //   id: 5,
+    //   name: "docker.",
+    //   img: "/dock.svg",
+    //   nameImg: "/dockerName.svg",
+    // },
   ];
   
   export const workExperience = [
     {
       id: 1,
-      title: "Software Engineer Intern",
+      title: "Relinns Technologies : Software Engineer Intern",
       desc: "Assisted in the development of a ChatBot and other various client projects  using Node.js, enhancing security.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Cdac-iLeads",
+      title: "Project Engineer : Cdac-iLeads",
       desc: "Developed and Deployed various web-applications.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Cdac-e-Solutions",
+      title: "Project Engineer : Cdac-e-Solutions",
       desc: "Shifted Deployment process to docker via gitlab automation.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
