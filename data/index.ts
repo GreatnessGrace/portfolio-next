@@ -211,9 +211,11 @@ export const navItems = [
     {
       id: 2,
       img: "/twit.svg",
+      url: "https://x.com/GraceAnkush"
     },
     {
       id: 3,
       img: "/link.svg",
+      url: "https://www.linkedin.com/in/grace777"
     },
   ];
