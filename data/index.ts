@@ -1,7 +1,7 @@
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
-    // { name: "Testimonials", link: "#testimonials" },
+    { name: "Experience", link: "#experience" },
     { name: "Contact", link: "#contact" },
   ];
   
@@ -193,19 +193,20 @@ export const navItems = [
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
-    {
-      id: 4,
-      title: "Freelance Developer",
-      desc: "Developed and maintained user-facing features using modern technologies.",
-      className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
-    },
+    // {
+    //   id: 4,
+    //   title: "Freelance Developer",
+    //   desc: "Developed and maintained user-facing features using modern technologies.",
+    //   className: "md:col-span-2",
+    //   thumbnail: "/exp4.svg",
+    // },
   ];
   
   export const socialMedia = [
     {
       id: 1,
       img: "/git.svg",
+      url: "https://github.com/GreatnessGrace"
     },
     {
       id: 2,
