@@ -193,13 +193,13 @@ export const navItems = [
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
-    // {
-    //   id: 4,
-    //   title: "Freelance Developer",
-    //   desc: "Developed and maintained user-facing features using modern technologies.",
-    //   className: "md:col-span-2",
-    //   thumbnail: "/exp4.svg",
-    // },
+    {
+      id: 4,
+      title: "Project Engineer : C-DAC",
+      desc: "Developed and maintained user-facing features using modern technologies.",
+      className: "md:col-span-2",
+      thumbnail: "/exp4.svg",
+    },
   ];
   
   export const socialMedia = [
